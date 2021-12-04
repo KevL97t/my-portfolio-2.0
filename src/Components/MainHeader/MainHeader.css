@@ -1,0 +1,10 @@
+.main-hader-main-container{
+    width: 100%;
+    height: 7vh;
+    background-color: var(--main-color);
+}
+
+.main-hader-title{
+    color: var(--complementary-white);
+    font-size: 3.4rem;
+}

@@ -1,0 +1,15 @@
+.home-about-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
+}
+
+.info-technologies-container{
+    height: 80vh;
+}
+
+.info-technologies__title{
+    margin-top: 10px;
+    text-align: center;
+    color: var(--main-color);
+    font-size: 3rem;
+}
